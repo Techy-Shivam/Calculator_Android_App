@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator"><u>Calculator</u></string>
+    <string name="ac">AC</string>
+    <string name="divide">/</string>
+    <string name="sbrack">(</string>
+    <string name="obrack">)</string>
+</resources>
